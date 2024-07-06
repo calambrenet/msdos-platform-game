@@ -1,0 +1,3 @@
+rescan
+make
+game.exe
